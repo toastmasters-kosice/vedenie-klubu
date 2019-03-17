@@ -5,6 +5,7 @@ kategórie: porada, toastmasters
 prítomní: 'Lukáš Bičuš, Jozef Staruch, Jozef Takáč, Vladimír Záhradník, Ján Šándor, Jana Kolesárová'
 ---
 
+![alt text][logo]
 # Zápisnica zo stretnutia Toastmasters Košice 28.1.2019 o 18:30
 
 ## K bodom programu:
@@ -57,3 +58,5 @@ Toastmasters.org) a prípadne ich tam doplniť, aby nám za to boli udelené DCP
 ### Zápisnicu vyhotovil:
 Vladimír Záhradník,
 tajomník klubu
+
+[logo]: https://raw.githubusercontent.com/toastmasters-kosice/toastmasters-kosice.github.io/master/assets/img/tmke-logo.jpg "Logo Toastmasters Košice"
