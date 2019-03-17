@@ -8,7 +8,7 @@ prítomní: 'Lukáš Bičuš, Jozef Staruch, Jozef Takáč, Vladimír Záhradní
 # Zápisnica zo stretnutia Toastmasters Košice 28.1.2019 o 18:30
 
 ## K bodom programu:
-1. ### Súhrn, čomu sa vedenie venovalo od posledného stretnutia
+### 1. Súhrn, čomu sa vedenie venovalo od posledného stretnutia
    * Katarína Šimková a Jozef Takáč (VPM) získali certifikát Competent Leader (CL, súčasť
 staršieho výukového systému).
    * Plagát na workshop s Andrejom Mažárym je hotový, určenie miestnosti ešte nie je definitívne a môže sa zmeniť.
