@@ -1,0 +1,41 @@
+---
+nadpis:  'Zápisnica zo stretnutia Toastmasters Košice'
+dátum:   '2018-09-14 19:00:00 +0100'
+kategórie: porada, toastmasters
+prítomní: 'Lukáš Bičuš, Jozef Staruch, Jozef Takáč'
+---
+
+![alt text][logo]
+# Zápisnica zo stretnutia Toastmasters Košice 14.9.2018 o 19:00
+
+## K bodom programu:
+### 1. Privítanie
+Zhrnutie propagačného stretnutia z 20.8.2018. Reklama na Facebooku by mala bežať skôr a príspevky by mali byť v pravidelných intervaloch so zaujímavým obsahom. Ideálne by mali gradovať. Spestriť stretnutie o strážcu pozornosti, poprehadzovať trochu organizáciu stretnutia. Osloviť viac ľudí, mali sme malý počet hostí. Ak vypadne rečník, mal by byť niekto v zálohe. Lepšie zabezpečiť prípravu, technické vybavenie v predstihu.
+
+### 2. Informácie o finančných prostriedkoch na účte 
+Momentálne máme na účte 1223,9 eur.
+
+### 3. Súťaž
+Súťaž sa uskutoční 15.10.2018. Hlavný organizátor Janka Kolesárová, pomoc ponúkol Marcel Zumerling.
+
+### 4. Diskusia do budúcna
+   * Realizácia tréningu pre aktívnych členov, či už formou jednodňovej akcie alebo vikendovky v závislosti od finančných zdrojov.
+   * Realizacia menších aktivít pre členov, turistika...
+   * Grafika pre zatraktívnenie príspevkov
+
+### 5. Úlohy do ďalšieho stretnutia:
+   * **Jozef Takáč** – Ak máme nového člena idealne ak by pri platbe, zadal do poznámky aj adresu. TIP, cenove porovnanie s inými formami vzdelavania v tejto oblasti,  300-500eur. Členske, zatiaľ zaplatil iba Vladimír Zahradnik.  
+   * **Janka Kolesárova** – súťaž 15.10
+   * **Lukáš Bičuš** – vlajka stojan,
+   * **Jozef Staruch** – Trello, meeting minutes, ďalší člen do vedenia.
+
+### Záver
+Pozvanie na svadbu sa trochu zabaviť. Budú pripravené stoly pre hostí a hrať bude živá hudba. Ideálne po ôsmej, keď už skončí oficiálna časť.
+
+Stretnutie bolo ukončené o 20.10 hod.
+
+### Zápisnicu vyhotovil:
+Jozef Staruch,
+prezident klubu
+
+[logo]: https://raw.githubusercontent.com/toastmasters-kosice/toastmasters-kosice.github.io/master/assets/img/tmke-logo.jpg "Logo Toastmasters Košice"
