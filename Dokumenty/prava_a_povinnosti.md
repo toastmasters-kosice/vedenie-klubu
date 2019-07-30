@@ -63,3 +63,7 @@
 - Vzdelávačky??
 - Stretnutia v angličtine
 - Rozšírime pôsobisko aj na LinkedIn, Twitter a Meetup.com? Je tam potenciál osloviť skupiny ľudí, ktorí nie sú na Facebooku. V prípade LinkedInu je potenciál získať členov z radov podnikateľov a manažérov. Súčasne s tým však musíme zvýšiť kvalitu vzdelávania, aby sme ich udržali. Tieto sociálne siete sú spomínané aj v manuáli pre VPPR.
+- Odchod členov Lukáša Bičuša a JAnika Šándora od októbra 2019
+- Jozef Starúch a Kamila Pekárovičová prejavili záujem o prejav 5.8.2019. Zistiť, či majú skutočne záujem a požiadať ich nech si zažiadajú o prejav v EasySpeaku
+- Kto sú Erika Olejarníková a Peter Murko? Zaplatili členské? Mám Eriku doplniť do Club Central? Peter Murko tam už je...
+- Prečo niektorí členovia majú za menom uvedený titul napr. PM1 po dokončení 1. levelu Pathways, a iní nie? Kde to viem updatnuť?
