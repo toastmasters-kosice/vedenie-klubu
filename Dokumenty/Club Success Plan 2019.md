@@ -2,6 +2,15 @@
 # Plán úspechu klubu za rok 2019/2020
 Nové vedenie bude pôsobiť v období 1.7.2019 - 30.6.2020
 
+## Obsah
+1. [Členovia vedenia](#členovia-vedenia)
+2. [Protokol stretávania vedenia](#protokol-stretávania-vedenia)
+3. [Interakcie v rámci tímu a normy správania](#interakcie-v-rámci-tímu-a-normy-správania)
+4. [Počiatočný stav](#počiatočný-stav)
+5. [Vzdelávanie: ciele 1 až 6](#vzdelávanie-ciele-1-až-6)
+6. [Členstvo: ciele 7 a 8](#členstvo-ciele-7-a-8)
+7. [Školenie: cieľ 9](#školenie-cieľ-9)
+
 ## Členovia vedenia:
 - Jana Kolesárová - *prezidentka*
 - Vladimír Záhradník - *viceprezident pre vzdelávanie (VPE), tajomník*
