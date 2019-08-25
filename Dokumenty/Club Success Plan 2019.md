@@ -71,7 +71,7 @@ Aby bol váš klub zvažovaný na ocenenie, musí mať buď 20 členov alebo ná
 5. Jedno ocenenie zručný líder (CL), pokročilý líder - bronz (ALB), pokročilý líder - striebro (ALS) alebo vyznamenaný Toastmaster (DTM)
 6. Ešte jedno ocenenie CL, ALB, ALS alebo DTM
 
-### Body získané v PathWays
+### Body získané v Pathways
 1. Štyria členovia dokončia 1. úroveň
 2. Dvaja členovia dokončia 2. úroveň
 3. Ďalší dvaja členovia dokončia 2. úroveň
@@ -104,13 +104,13 @@ TODO: Zistí viceprezident pre vzdelávanie.
 - Zistiť, kto má koho za mentora. V prípade, že člen mentora nemá, odporučiť mu, aby si ho našiel.
 - Mentori majú zistiť motiváciu člena a pripomínať mu ju.
 - Chceme zaviesť pravidelnosť prejavov (aspoň raz za 6 týždňov), zdôrazňovať dôležitosť určenia si cieľa (proaktívne oslovovať členov a pripomínať im "prečo")
-- V rámci predsedania promovať PathWays, pri predstavovaní rečníka predstaviť projekt, aby členovia vedeli, čo ich čaká v ďalších úrovniach
+- V rámci predsedania promovať Pathways, pri predstavovaní rečníka predstaviť projekt, aby členovia vedeli, čo ich čaká v ďalších úrovniach
 
 ### Akčný plán pre vzdelávanie
 Identifikujte akcie, aké podnikne váš klub, aby splnil potreby identifikované v analýze situácie.
 
 #### Akcia v oblasti vzdelávania č. 1
-**Popíšte, ako pomôžete členom získať ocenenie CC alebo dokončiť úrovne 1 a 2 v PathWays. Konkrétne, aké akcie podniknete? K tejto akcii sa odkazujte ako "Akcia v oblasti vzdelávania č. 1".**
+**Popíšte, ako pomôžete členom získať ocenenie CC alebo dokončiť úrovne 1 a 2 v Pathways. Konkrétne, aké akcie podniknete? K tejto akcii sa odkazujte ako "Akcia v oblasti vzdelávania č. 1".**
 
 Mentori, motivácia (pripomínať ciele) + naplánovať prejavy dopredu, aby tam bol termín.
 
