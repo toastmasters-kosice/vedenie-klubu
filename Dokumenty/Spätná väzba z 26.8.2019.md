@@ -45,11 +45,24 @@ Spätná väzba od Area directora, Mateja Petrenku (z dňa 26.08.2019)
 
 ## Záver stretnutia
 - Oznamy prebrať najprv s prezidentom, či sa môžu uverejniť (do konca prestávky).
+- Oznamy by bolo vhodnejšie oznámiť ešte pred prestávkou. Na záver sú ľudia už unavení (Peter Šándor).
 - Nevyhlasovať súťaž ani nič s platením členského (interné veci) pred hosťami (radšej do mailu).
 - Záverečné kolečko (čo si odnášate z tohto stretnutia? Čo sa vám páčilo?...).
 - Milí Toastmastri – neskloňuje sa to (milí Toastmasters).
 
+## Oceňovanie účastníkov (Peter Šándor)
+- Oceňovanie zanechá dobrý dojem a je lacné na realizáciu
+- Oceniť úplne prvú improvizáciu, prvý prejav rečníka, dokončenie úrovne v Pathways
+- Obchod Toastmasters International poskytuje rôzne stužky. V klube Slovenskí Toastmasters majú aj vlastne vyrobené diplomy (možno by sme ich mohli využiť aj my)
+- Financovanie buď z rozpočtu klubu alebo z rozpočtu arey
+
+## Plnenie vzdelávacích úloh v iných kluboch (Peter Šándor)
+- V Košiciach je to ťažko realizovateľné (aspoň zatiaľ, uvidíme ako sa rozbehne TM Tatry)
+- V rámci klubu je rečník vo svojej konfortnej zóne. Už pozná ostatných členov a rozpráva sa mu lepšie
+- Na západe (Bratislava, Trnava, Nitra) je napríklad bežné, že člen, ktorý robí project Evaluate and Feedback dá opravený prejav v neznámom prostredí iného klubu
+
 Okrem už spomenutých vecí môžeme zaradiť vzdelávačky a poprosiť aj členov z iných klubov, aby nám s nimi pomohli.
 
-Vypracovala
-Jana Kolesárová, prezidentka klubu
+Vypracovala Jana Kolesárová, prezidentka klubu
+
+Doplnil Vladimír Záhradník, VPE, Tajomník
