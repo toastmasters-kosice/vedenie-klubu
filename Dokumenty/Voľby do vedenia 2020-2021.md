@@ -8,7 +8,7 @@
 |----------------------------------------|---------------------------------------------|
 | Prezident                              | Kornélia Hudáková (1), Vladimír Kasarda (1) |
 | Tajomník                               | Vladimír Kasarda (2)                        |
-| Viceprezident pre vzdelávanie          |                                             |
+| Viceprezident pre vzdelávanie          | Roman Gűrtler (1)                           |
 | Viceprezident pre členstvo             |                                             |
 | Viceprezident pre vzťahy s verejnosťou | Miroslava Hrešková (1)                      |
 | Pokladník                              | Kamila Pekárovičová (1)                     |
