@@ -15,4 +15,4 @@ Voľby sa uskutočnia na online stretnutí 18.5.2020. Zvoleným vedúcim začín
 | Pokladník                              | Kamila Pekárovičová (1)                     |         |
 | Technický vedúci                       |                                             |         |
 
-[logo]: https://raw.githubusercontent.com/toastmasters-kosice/toastmasters-kosice.github.io/develop/src/images/tmke-logo.jpg "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke_podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"

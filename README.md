@@ -1,6 +1,6 @@
-# Toastmasters Košice [![alt_text][fb_icon]][fb_page]
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)][cc-by-nc-sa]
 
+# Vedenie klubu [![alt_text][fb_icon]][fb_page]
 Dokumenty vedenia klubu [Toastmasters Košice][tm-kosice-website].
 
 ## Licencia
