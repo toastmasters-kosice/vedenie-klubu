@@ -8,14 +8,14 @@ Hlasovanie bude prebiehať na online stretnutí a pred samotným hlasovaním bud
 ## Kandidáti
 > Poznámka: Člen sa môže uchádzať na viacero pozícií. Vedľa jeho mena je v zátvorke uvedená priorita, s akou chce rolu získať. Ak napríklad člen nebude zvolený na prezidenta s prioritou (1), môže sa uchádzať a byť zvolený na inú rolu, ak takú uviedol.
 
-| Pozícia                                | Kandidáti                                   | Zvolený |
-|----------------------------------------|---------------------------------------------|---------|
-| Prezident                              | Kornélia Hudáková (1), Vladimír Kasarda (1) |         |
-| Tajomník                               | Vladimír Kasarda (2)                        |         |
-| Viceprezident pre vzdelávanie          | Roman Gűrtler (1)                           |         |
-| Viceprezident pre členstvo             | Kornélia Hudáková (2), Roman Gűrtler (2)    |         |
-| Viceprezident pre vzťahy s verejnosťou | Miroslava Hrešková (1)                      |         |
-| Pokladník                              | Kamila Pekárovičová (1)                     |         |
-| Technický vedúci                       |                                             |         |
+| Pozícia                                | Kandidáti                                   | Zvolený                   |
+|----------------------------------------|---------------------------------------------|---------------------------|
+| Prezident                              | Kornélia Hudáková (1), Vladimír Kasarda (1) | Vladimír Kasarda          |
+| Tajomník                               | Vladimír Kasarda (2)                        | *Neobsadený*              |
+| Viceprezident pre vzdelávanie          | Roman Gűrtler (1)                           | Roman Gűrtler             |
+| Viceprezident pre členstvo             | Kornélia Hudáková (2), Roman Gűrtler (2)    | Kornélia Hudáková         |
+| Viceprezident pre vzťahy s verejnosťou | Miroslava Hrešková (1)                      | Miroslava Hrešková        |
+| Pokladník                              | Kamila Pekárovičová (1)                     | Kamila Pekárovičová       |
+| Technický vedúci                       |                                             | *Neobsadený*              |
 
 [logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
