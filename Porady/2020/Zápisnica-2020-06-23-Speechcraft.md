@@ -20,7 +20,7 @@ prítomní: 'Jana Bičušová, Vladimír Záhradník, Vladimír Kasarda, Mirosla
 - Vlado Kasarda navrhuje spraviť na Hviezdoslavovej jedno stretnutie klubu a odpromovať iniciatívu
 
 ## Propagácia
-- Propagáciu bude riešiť Stanka priamo s Mirkou Hreškovou
+- Propagáciu bude riešiť Stanka Sivčová priamo s Mirkou Hreškovou
 - Promo sa začne robiť už v júli. Kurz bude propagovaný knižnicou aj klubom Toastmasters Košice
 
 ## Účastníci
