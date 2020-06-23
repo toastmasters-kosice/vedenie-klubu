@@ -17,7 +17,7 @@ prítomní: 'Jana Bičušová, Vladimír Záhradník, Vladimír Kasarda, Mirosla
 ## Miestnosť
 - Knižnica má [miestnosť na Hviezdoslavovej (kapacita do 50 ľudí)][miestnost-hviezdoslavova] alebo na Hlavnej oproti divadlu (kapacita do 20 ľudí)
 - Vlado Kasarda navrhuje použiť väčšiu miestnosť a kurz otvoriť. Hostia sa môžu prísť pozrieť, ale nebudú sa zapájať. Budeme tam však mať banner klubu
-- Vlado Kasarda spraviť na Hviezdoslavovej jedno stretnutie klubu a odpromovať iniciatívu
+- Vlado Kasarda navrhuje spraviť na Hviezdoslavovej jedno stretnutie klubu a odpromovať iniciatívu
 
 ## Propagácia
 - Propagáciu bude riešiť Stanka priamo s Mirkou Hreškovou
