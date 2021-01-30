@@ -215,6 +215,6 @@ Zhodnoťte aktuálnu situáciu vo vašom klube ohľadom správy.
 #### Ďalšie poznámky
 Ako "prinútiť" ľud, aby platili načas? - Email a pripomienky na stretnutí už mesiac pred termínom (august, február).
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [doodle]: https://doodle.com/
 [gmail]: https://mail.google.com/

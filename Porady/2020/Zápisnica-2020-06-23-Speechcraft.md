@@ -41,7 +41,7 @@ prítomní: 'Jana Bičušová, Vladimír Záhradník, Vladimír Kasarda, Mirosla
 Vladimír Záhradník,
 VPE a tajomník klubu
 
-[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/master/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
+[logo]: https://github.com/toastmasters-kosice/graficke-podklady/raw/main/Log%C3%A1/%C5%A0tandardn%C3%A9%20zmen%C5%A1en%C3%A9%20logo%20TMKE.png "Logo Toastmasters Košice"
 [miestnost-hviezdoslavova]: https://vkjb.sk/11-ondrej-sokol-tibor-siska/
 [speechcraft-tmi]: https://www.toastmasters.org/education/speechcraft
 [speechcraft-starter-kit]: https://www.toastmasters.org/shop/205--Speechcraft-Starter-Kit
