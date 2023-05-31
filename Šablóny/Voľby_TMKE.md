@@ -7,13 +7,13 @@ z členskej schôdze Toastmasters Košice, o.z., zo dňa 1.6.2023
 Do funkcií členov predstavenstva klubu Toastmasters Košice, o.z., boli na funkčné obdobie od 1.7.2023 do 30.6.2024 volení nasledujúci členovia klubu:<br/>
 - TBD
 
-1. Do funkcie **prezident klubu** bol zvolený **TBD**
-2. Do funkcie **tajomník klubu** bol zvolený **TBD**
-3. Do funkcie **viceprezident pre členstvo** bol zvolený **TBD**
-4. Do funkcie **viceprezident pre vzdelávanie** bol zvolený **TBD**
-5. Do funkcie **viceprezident pre vzťahy s verejnosťou** bol zvolený **TBD**
-6. Do funkcie **pokladník** bol zvolený **TBD**
-7. Do funkcie **technický vedúci** bol zvolený **TBD**
+1. Do funkcie **prezident klubu** bol zvolený **Albus Dumbledore**
+2. Do funkcie **tajomník klubu** bol zvolený **Richard Chrabromil**
+3. Do funkcie **viceprezident pre členstvo** bol zvolený **Tomáš Riddle**
+4. Do funkcie **viceprezident pre vzdelávanie** bol zvolený **Ján Hrnčiar**
+5. Do funkcie **viceprezident pre vzťahy s verejnosťou** bol zvolený **Salazar Slizolin**
+6. Do funkcie **pokladník** bol zvolený **Lukáš Malfoy**
+7. Do funkcie **technický vedúci** bol zvolený **Argus Filch**
 
 > Pokiaľ člen(ka) združenia hlasoval(a) ZA všetky tri návrhy, vyznačí sa len jedenkrát ZA.
 <br/>
@@ -21,7 +21,7 @@ Do funkcií členov predstavenstva klubu Toastmasters Košice, o.z., boli na fun
 
 | Meno člena         | Trvalé bydlisko                          | Rodné číslo | Hlasoval(a) | Podpis |
 |--------------------|------------------------------------------|-------------|-------------|--------|
-| Janko Hraško       | Vymyslená 123, 999 99 Jupiter            |             |             |        |
+| Ján Hrach          | Vymyslená 123, 999 99 Jupiter            |             |             |        |
 
 <br/>
 <br/>
