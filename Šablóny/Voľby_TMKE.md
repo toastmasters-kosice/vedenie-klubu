@@ -16,6 +16,8 @@ Do funkcií členov predstavenstva klubu Toastmasters Košice, o.z., boli na fun
 7. Do funkcie **technický vedúci** bol zvolený **TBD**
 
 > Pokiaľ člen(ka) združenia hlasoval(a) ZA všetky tri návrhy, vyznačí sa len jedenkrát ZA.
+<br/>
+<br/>
 
 | Meno člena         | Trvalé bydlisko                          | Rodné číslo | Hlasoval(a) | Podpis |
 |--------------------|------------------------------------------|-------------|-------------|--------|
