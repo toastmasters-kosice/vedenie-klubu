@@ -5,7 +5,13 @@ z členskej schôdze Toastmasters Košice, o.z., zo dňa 1.6.2023
 
 ### Body hlasovania:
 Do funkcií členov predstavenstva klubu Toastmasters Košice, o.z., boli na funkčné obdobie od 1.7.2023 do 30.6.2024 volení nasledujúci členovia klubu:<br/>
-- TBD
+- Albus Dumbledore
+- Richard Chrabromil
+- Tomáš Riddle
+- Ján Hrnčiar
+- Salazar Slizolin
+- Lukáš Malfoy
+- Argus Filch
 
 1. Do funkcie **prezident klubu** bol zvolený **Albus Dumbledore**
 2. Do funkcie **tajomník klubu** bol zvolený **Richard Chrabromil**
@@ -21,7 +27,7 @@ Do funkcií členov predstavenstva klubu Toastmasters Košice, o.z., boli na fun
 
 | Meno člena         | Trvalé bydlisko                          | Rodné číslo | Hlasoval(a) | Podpis |
 |--------------------|------------------------------------------|-------------|-------------|--------|
-| Ján Hrach          | Vymyslená 123, 999 99 Jupiter            |             |             |        |
+| Ján Hrach          | Vymyslená 123, 999 99 Jupiter            | 999999/1111 | ZA          |        |
 
 <br/>
 <br/>
